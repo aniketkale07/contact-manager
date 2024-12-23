@@ -1,0 +1,71 @@
+.custom-bg {
+    background-image: url('https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?w=740&t=st=1722734759~exp=1722735359~hmac=a9b312db2f12de0a709814e481fa4f8e9935c80640ffd09c401a96c19ebf1884'); /* Replace this URL with the URL of your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.alert {
+    position: relative;
+    padding: 1rem 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+  }
+  
+  .alert-dismissible {
+    padding-right: 3rem;
+  }
+  
+  .alert-dismissible .btn-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0.5rem 0.5rem;
+    color: inherit;
+  }
+  
+  .alert-dismissible .btn-close:hover {
+    color: inherit;
+  }
+  
+  .alert-content {
+    margin-left: 2rem;
+  }
+  
+  .alert-success {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+  }
+  
+  .alert-error {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+  }
+  
+
+  /*   ERROR MESSAGE BOX CSSS */
+  .alert-info {
+    color: #0c5460;
+    background-color: #cff4fc;
+    border-color: #b6effb;
+  }
+  
+  .alert-warning {
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+  }
+
+
+  /* signup  */
+  .contact-grouped {
+    letter-spacing: 1.5px; /* Adjust spacing between groups */
+}
+
+.contact-grouped {
+  letter-spacing: 2px; /* Adjust spacing between groups */
+}
